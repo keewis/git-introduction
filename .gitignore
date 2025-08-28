@@ -20,3 +20,6 @@ __pycache__/
 .cache
 /docs/_build/
 .prettier_cache
+# pixi environments
+.pixi/*
+!.pixi/config.toml
