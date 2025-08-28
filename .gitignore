@@ -13,6 +13,7 @@ __pycache__/
 
 # tools
 .ipynb_checkpoints/
+.virtual_documents/
 .hypothesis/
 .pytest_cache
 .coverage
@@ -20,3 +21,9 @@ __pycache__/
 .cache
 /docs/_build/
 .prettier_cache
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# results
+/repository
