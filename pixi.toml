@@ -10,7 +10,6 @@ version = "0.1.0"
 [dependencies]
 jupyterlab = ">=4.4.6,<5"
 python = "3.13.*"
-nbdime = ">=4.0.2,<5"
 jupyterlab_code_formatter = ">=3.0.2,<4"
 jupyter-resource-usage = ">=1.2.0,<2"
 isort = ">=6.0.1,<7"
